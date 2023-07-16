@@ -1,9 +1,0 @@
-version_api = 5.131
-access_token_group = 'vk1.a.r-c1MQ30194i6vGlJLVNwu541-jy-HnJ_BiePIrYtajOyhZ_Q8Zm_ljYUBcG3-VjaY-Mj9ofVXNtRuFwMNR_sZ9f0KAUZctn5qipFW3e_1IyVzFpLj9nLXG__3_JEBUZeyuDH987KyU5DWEeqvUClVttaUaeW90VEi1EhQv3Q5Ze1DHPMapFVdViyQO3C-iyy9wpp0XXSb_XsZIAjNZjcQ'
-group_id = 'https://vk.com/club221074180'
-user_token = 'vk1.a.8T7RhkRGGTAiINqhXoxrIvpnhgpy_AcJRAa4VD-OMh9Acco0g2f1eo4_92ETHHn7x6K1Wg-PTwg80aqCyFsHXmI-B3lqDd6ywuFE-YVYSkttFv5agYK3XVEspR3OdNeItQH308pkzw7Sx6DJr-t3gqzEqYoSQR02EFfwjufGUaPpepJqd7takyp8ntnRMTpXHRETiUiKm04mVkm75WS8AA'
-vk_id_app = '51683815'
-bd_user = 'postgres'
-bd_password = 'qazwe'
-bd_database = 'VKinder'
-host = 'localhost'
